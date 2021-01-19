@@ -16,7 +16,7 @@ The relative sizes are based on the actual data as are the relative distances an
 
 
 ## Additional Goals:
-- [ ] Port to P5.js
+- [x] Port to P5.js
 - [ ] Moons orbitting planets
 - [ ] Option to show/hide Sun
 
